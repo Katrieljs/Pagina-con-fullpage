@@ -496,7 +496,9 @@ html{
 	}
 	.s-enseñanza_1{
 		grid-template-columns: 1fr;
+		gap: 25px;
 		place-items: center;
+		align-content: space-evenly;
 	}
 	.autoplay-2{
 		align-self: center;
